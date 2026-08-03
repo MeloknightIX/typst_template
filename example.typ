@@ -4,12 +4,10 @@
   title: [Hello World],
 )
 
-// ⬇️ probably adjust to src/template.typ etc. if moving out of src
-#import "./template.typ": template
+#import "./src/template.typ": template
 #show: template
 
-#import "./utils/email.typ": email
-// ⬆️
+#import "src/utils/email.typ": email
 
 #title()
 
