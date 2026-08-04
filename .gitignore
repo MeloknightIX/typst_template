@@ -1,9 +1,7 @@
-fonts
-
-.DS_Store
-
-# ignore all top level typ documents except example.typ
-./*.typ
+*
+!.gitignore
 !example.typ
-
-media
+!README.md
+!src/
+!src/**
+src/media/
