@@ -1,7 +1,7 @@
 *
-!.gitignore
-!example.typ
 !README.md
-!src/
-!src/**
-src/media/
+!example.typ
+!.gitignore
+!/src/template.typ
+!src/utils
+!src/utils/**
