@@ -2,3 +2,8 @@
 !src/
 !src/utils/
 !src/utils/*
+!src/template.typ
+
+!.gitignore
+!example.typ
+!README.md
